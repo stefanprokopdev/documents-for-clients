@@ -24,7 +24,7 @@ If you want me to make you an exception to some of these rules, just simply ask 
 3. We can schedule an online workshop - initial meeting
 4. You order a service
 5. You/We prepare detailed specification
-6. We sign a contract
+6. We sign a contract (it's individual)
    - We specify terms and conditions
    - We set a deadline
    - We set when the job is done (result of the work)
