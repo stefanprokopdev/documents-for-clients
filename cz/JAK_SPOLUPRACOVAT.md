@@ -63,6 +63,7 @@ Pokud chcete, abych vám udělil jakékoliv výjimky z některých z níže uved
    - Dokument si můžeme kdykoliv přečíst a ověřit si vše podstatné
    - Na dokument se můžeme kdykoliv odkázat
    - S přípravou dokumentu a specifikace vám rád pomohu v rámci konzultačních hodin (viz detailní ceník)
+3. Od dohody i smlouvy můžete kdykoliv odstoupit
 
 ## Mítinky
 

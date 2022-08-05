@@ -63,6 +63,7 @@ If you want me to make you an exception to some of these rules, just simply ask 
    - We can read the document at any time
    - It's very easy to refer to it
    - I can help you with writing the document within consultation hours (see detailed pricing)
+3. You may withdraw from the agreement and the contract at any time
 
 ## Meetings
 
