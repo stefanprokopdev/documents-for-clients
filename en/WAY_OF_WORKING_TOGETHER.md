@@ -1,5 +1,9 @@
 # The Way of Working Together
 
+🇨🇿 [Česky](../cz/JAK_SPOLUPRACOVAT.md)
+
+---
+
 Hi there 👋 Before we start our business journey, please take a look at the way I work. It should help you to understand my workflow and the whole process of cooperation.
 
 I would like to keep this document simple - without the "law jargon", but it's still very important. I believe you will fully respect it.
@@ -24,12 +28,14 @@ If you want me to make you an exception to some of these rules, just simply ask 
 3. We can schedule an online workshop - initial meeting
 4. You order a service
 5. You/We prepare detailed specification
+   - I can help you to prepare a specification within my consultation hours
+   - I will prepare an offer and time estimate based on the specification
 6. We sign a contract
    - We specify terms and conditions
    - We set a deadline
    - We set when the job is done (result of the work)
    - etc.
-7. You pay a proforma invoice (it's individual)
+7. You pay a proforma invoice (it's individual - it will be part of the offer)
 8. Now we start working together :tada:
 
 ## Pricing
