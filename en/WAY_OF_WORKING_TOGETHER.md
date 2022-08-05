@@ -30,7 +30,7 @@ If you want me to make you an exception to some of these rules, just simply ask 
 5. You/We prepare detailed specification
    - I can help you to prepare a specification within my consultation hours
    - I will prepare an offer and time estimate based on the specification
-6. We sign a contract
+6. We sign a contract (it's individual)
    - We specify terms and conditions
    - We set a deadline
    - We set when the job is done (result of the work)
@@ -73,6 +73,6 @@ If you want me to make you an exception to some of these rules, just simply ask 
    - Almost everything we will be talking about (features, tasks and so on) needs to be specified in the documentation (written form)
    - If you want to schedule an online call, this is the process how it works:
      1. You will order the consultancy / advisory service (see detailed pricing)
-     2. You will receive a proforma invoice (100% of the price must be of the price) which has to be paid before the meeting 
+     2. You will receive a proforma invoice which has to be paid before the meeting (100% of the price)
      3. After I receive the money I will send you my Calendly and you can book a timeslot
    - I recommend you to use the written communication option - it's free and much faster
