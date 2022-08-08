@@ -1,4 +1,4 @@
-# The Way of Working Together
+# The Way of Working Together - Terms & Conditions
 
 🇨🇿 [Česky](../cz/JAK_SPOLUPRACOVAT.md)
 
