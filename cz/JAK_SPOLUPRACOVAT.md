@@ -67,6 +67,8 @@ Rád bych tento dokument zachoval jednoduchý a srozumitelný - bez právního �
 
 - V případě větších projektů fakturuji po každém dodání dílčí části projektu
 - V případě hodinové spolupráce, fakturuji týdně, vždy v pátek odpoledne
+- Práci účtuji po minutách
+- Z každou fakturou zasílám pracovní výkaz (podrobný rozpis práce)
 
 ##### Storno
 
@@ -95,6 +97,7 @@ Rád bych tento dokument zachoval jednoduchý a srozumitelný - bez právního �
 4. Online hovory / cally / mítinky jsou konzultační služby v jakémkoliv případě
    - Před hovorem je nutné zaplatit si kredit na konzultační služby a zaplatit 100% zálohovou fakturu
    - Po obdržení peněz na účet je možné domluvit datum a čas jednotlivých hovorů
+   - Kredit je možné čerpat v 5minutových blocích (voláme 21 minut 13 vteřin -> čerpání je 25 minut)
 
 ## Proč je dokument na této platformě?
 
