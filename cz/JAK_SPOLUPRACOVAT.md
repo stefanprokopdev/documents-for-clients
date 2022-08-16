@@ -99,6 +99,10 @@ Rád bych tento dokument zachoval jednoduchý a srozumitelný - bez právního �
    - Po obdržení peněz na účet je možné domluvit datum a čas jednotlivých hovorů
    - Kredit je možné čerpat v 5minutových blocích (voláme 21 minut 13 vteřin -> čerpání je 25 minut)
 
+## Odpovědnost za škodu
+
+- V případě, že budu muset uhradit jakékoliv škody za vzniklou újmu (mnou způsobenou) souhlasíte, že vždy uhradím maximálně újmu v hodnotě ceny díla, nejvýše však 200 000 Kč.
+
 ## Proč je dokument na této platformě?
 
 - GitHub je platforma pro verzování zdrojového kódu
