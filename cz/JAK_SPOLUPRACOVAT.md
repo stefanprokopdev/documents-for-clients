@@ -8,6 +8,8 @@ V tomto dokumentu vám přiblížím způsob, jakým pracuji. Pomůže vám to p
 
 Rád bych tento dokument zachoval jednoduchý a srozumitelný - bez právního žargonu. To však neznamená, že dokument není důležitý. Věřím, že vše, co je v tomto dokumentu uvedené, budete respektovat.
 
+Výjimka z těchto podmínek může být upravena pouze smluvně.
+
 ## Základní informace
 
 1. Jsem digitální nomád a pracuji pouze vzdáleně (full remote)
@@ -69,6 +71,7 @@ Rád bych tento dokument zachoval jednoduchý a srozumitelný - bez právního �
 - V případě hodinové spolupráce, fakturuji týdně, vždy v pátek odpoledne
 - Práci účtuji po minutách
 - Z každou fakturou zasílám pracovní výkaz (podrobný rozpis práce)
+- Součástí fakturace je také čtení potřebné dokumentace a veškerých materiálů souvisejících s řešením dané problematiky
 
 ##### Storno
 
