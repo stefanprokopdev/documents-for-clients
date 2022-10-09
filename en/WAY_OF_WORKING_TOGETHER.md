@@ -78,6 +78,7 @@ Exceptions to these conditions can only be made by contract.
 1. You can cancel the agreement anytime you want
     1. The cash advance for the development is non-refundable. In case of cancelling our agreement before finishing the project, it covers the costs of allocating the capacity.
     2. The unused consultation hours (credit) can be refunded with 50% of cancellation fee
+2. I can transfer up to 5 hours from one month to another, the remaining ones expire with no possibility of getting a refund
 
 ## 3. Pricing
 

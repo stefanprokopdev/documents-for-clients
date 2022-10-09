@@ -78,6 +78,7 @@ Výjimka z těchto podmínek může být upravena pouze smluvně.
 1. Od smlouvy nebo dohody můžete kdykoliv odstoupit
     1. Záloha na vývoj je nevratná, v případě ukončení smlouvy nebo dohody před předáním nahrazuje náklady na vyčlenění kapacit
     2. Nevyčerpanou část poradenství můžete vypovědět s 50% storno poplatkem
+2. Umožňuji převést maximálně 5 hodin z jednoho měsíce do dalšího, zbylé hodiny propadají bez nároku na vrácení peněz
 
 ## 3. Ceník
 
