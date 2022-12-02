@@ -58,7 +58,7 @@ Výjimka z těchto podmínek může být upravena pouze smluvně.
 ### 2.4. Zálohová faktura
 
 1. Zaplatíte zálohovou fakturu
-2. V případě vývoje a technické implementace je výše 30 % z výsledné ceny
+2. V případě vývoje a technické implementace je výše 50 % z výsledné ceny
 3. V případě konzultací nebo analýz je výše 100 % formou kreditu
 
 ### 2.5. Začátek spolupráce :tada:

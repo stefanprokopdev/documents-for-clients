@@ -58,7 +58,7 @@ Exceptions to these conditions can only be made by contract.
 ### 2.4. Proforma Invoice
 
 1. You will pay for the proforma invoice
-2. In case of the development and implementation it is 30% of the final price
+2. In case of the development and implementation it is 50% of the final price
 3. In case of the consultation service or analysis it is 100% in credit
 
 ### 2.5. Beginning of the Cooperation :tada:
