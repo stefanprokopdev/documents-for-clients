@@ -64,20 +64,21 @@ Podrobnosti o používaných technologiích, specializaci a zaměření jsou k d
     - poškozují životní prostředí
     - porušují práva lidí a zvířat
     - podporují ruskou invazi na ukrajinu a jiné extrémní režimy, chování nebo postoje
+13. S obchodními podmínkami souhlasíte uhrazením prvním faktury.
+14. Mám právo odmítnout práci na zadání nebo jeho části, pokud je v rozporu s mou specializací, zaměřením nebo odporuje-li mým osobním hodnotám či přesvědčení, poškodila by mé dobré jméno, je protiprávní nebo neetická.
 
 ### 5.1. Hodinový pracovník
 
 1. Práci vykonávám samostatně bez účasti dalších dodavatelů.
-2. Mám právo odmítnout práci na zadání nebo jeho části, pokud je v rozporu s mou specializací, zaměřením nebo odporuje-li mým osobním hodnotám či přesvědčení, poškodila by mé dobré jméno, je protiprávní nebo neetická.
-3. Hodinovým pracovníkem se stávám po uhrazení 100% zálohové faktury, která je nevratná. Nahrazuje náklady na vyčlenění kapacit a možný ušlý zisk.
+2. Hodinovým pracovníkem se stávám po uhrazení 100% zálohové faktury, která je nevratná. Nahrazuje náklady na vyčlenění kapacit a možný ušlý zisk.
     - Pro ověření mých schopností a spokojenosti se spoluprací si můžete objednat menší obnos práce na zkoušku.
-4. Můžete si jednorázově převést maximálně 8 nevyčerpaných hodin do následujícího měsíce. Nevyčerpané hodiny propadají prvním dnem dalšího měsíce bez možnosti vrácení peněz.
+3. Můžete si jednorázově převést maximálně 8 nevyčerpaných hodin do následujícího měsíce. Nevyčerpané hodiny propadají prvním dnem dalšího měsíce bez možnosti vrácení peněz.
    1. Je vaší povinností mě na převod hodin do dalšího měsíce upozornit do posledního dne předcházejícího měsíce.
    2. Na nedostatek práce nebo prodlení s doručením potřebných materiálů vás včas upozorním.
    3. Je vaší povinností zajistit mi dostatek práce, aby pokryla objednané množství hodin.
    4. Po vyčerpání objednaného množství hodin nemám povinnost nedokončenou práci dodělávat.
-5. Na konci měsíce nebo na vyžádání vám zašlu časový report / výkaz práce.
-6. Předplacené hodiny čerpáte po blocích od 5 minut.
+4. Na konci měsíce nebo na vyžádání vám zašlu časový report / výkaz práce.
+5. Předplacené hodiny čerpáte po blocích od 5 minut.
 
 ### 5.2. Objednávka - dodání
 
@@ -93,6 +94,10 @@ Podrobnosti o používaných technologiích, specializaci a zaměření jsou k d
 2. Nevyčerpanou část konzultací můžete vypovědět s 50% storno poplatkem.
 3. Předplacené balíčky konzultací čerpáte po blocích od 5 minut.
 4. Při překročení předplacených konzultací vám účtuju stejnou službu jako doposud.
+5. Pokud konzultace nevyčerpáte do 3 měsíců od objednání, propadají a máte nárok pouze na jejich vypovězení s 50% storno poplatkem.
+6. Konzultace si rezervujete online prostřednictvím volných termínů v mém kalendáři.
+7. Konzultace probíhají pouze online formou na platformě Google Meet.
+8. Konzultace může být monitorována, na tuto skutečnost vás předem upozorním.
 
 ### 5.4. Fakturace
 
