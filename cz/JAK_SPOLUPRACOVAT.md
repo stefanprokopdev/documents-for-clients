@@ -8,64 +8,62 @@ Výjimka z těchto podmínek může být stanovena pouze písemnou smlouvou.
 
 Podrobnosti o používaných technologiích, specializaci a zaměření jsou k dispozici na [mém webu](https://stefanprokop.dev) nebo [LinkedIn](https://www.linkedin.com/in/stefanprokopdev/).
 
-## 1. Služby
+## 1. S čím vám pomůžu
 
-1. Vývoj webových a backend aplikací (včetně API) s důrazem na bezpečnost
-2. Poradenství v oblasti webových a backend aplikací (včetně API) a jejich zabezpečení
-3. Psaní technických a API dokumentací
-4. Psaní automatických testů pro Node.js aplikace
-5. Psaní technický článků na témata API a backend technologie, Node.js, Rust a bezpečnost
+1. Vývoj webových aplikací a API.
+2. Zabezpečení aplikací (aplikační bezpečnost) podle zákona, regulací a norem.
+3. Nastavení a optimalizace procesů v IT / vývojovém oddělení.
+4. Nezávislý dohled nad dodavateli software.
+5. Poradenství v oblasti aplikační bezpečnosti a vývoje software.
+
+- Služby související s kybernetickou a aplikační bezpečností poskytuju v rámci projektu [Bezpečný kód](https://bezpecnykod.cz/sluzby), kde se nachází aktuální seznam nabízených služeb.
 
 ## 2. Forma spolupráce
 
-1. **Hodinový pracovník** - objednáte si u mě určitý počet hodin v měsíci a stanu se součástí vašeho týmu
-2. **Objednávka - dodání** - na základě vaší objednávky samostatně zpracuju a doručím vaši objednávku
-3. **Konzultace** - konzultace a poradenství, školení, sdílení know how
+1. **Hodinový pracovník** - objednáte si u mě určitý počet hodin v měsíci a stanu se součástí vašeho týmu.
+2. **Objednávka - dodání** - na základě vaší objednávky zpracuju a doručím vaši objednávku.
+3. **Konzultace** - konzultace a poradenství, školení, sdílení know how.
 
 ## 3. Jak probíhá spolupráce
 
-1. Kontaktujte mě emailem na stefan@stefanprokop.dev a dejte mi vědět, o jakou službu a formu spolupráce máte zájem
-2. Vyměníme si pár emailů nebo si zavoláme a blíže se seznámíme
-   1. V prvním emailu vám mimo jiné zašlu
-      - Odkaz na tyto podmínky
-      - Hrubý odhad ceny
-      - V případě nejasných částí odhad ceny na jejich dospecifikování
-      - Ceník, ze kterého vycházím
-3. Po doladění detailů a uhrádě zálohové faktury začneme spolupracovat
-   1. Specifikujeme si podmínky spolupráce po dokončení objednávky (maintenance, atd.)
+1. Kontaktujte mě e-mailem na stefan@stefanprokop.dev nebo si zarezervujte úvodní [online schůzku zdarma](https://cal.com/stefanprokopdev/introduction) a dejte mi vědět, o jakou službu a formu spolupráce máte zájem.
+2. Formou e-mailu doladíme detaily.
+3. Vytvořím několik nabídek, ze kterých si vyberete, případně to blíže prodiskutujeme.
+4. Specifikujeme si podmínky spolupráce po dokončení objednáky (maintenance, atd.) a podepíšeme potřebné dokumenty (NDA, atp.)
+5. Po uhrazení zálohové faktury začneme spolupracovat.
 
 ## 4. Cena
 
-1. Ceník, ze kterého vycházím vám zašlu jako reakci na vaši poptávku.
+1. Základní hodinová sazba je uvedena na mém [webu](https://stefanprokop.dev#pricing), za kterou řeším pouze drobné analytické činnosti před uzavřením objednávky.
 2. Cena je ovlivněna mnoha faktory a může být proměnlivá v závislosti na
    1. požadavku rychlosti dodání nebo termínu začátku spolupráce
    2. scopu nebo objemu práce
    3. požadovaných výjimkách z těchto podmínek
    4. povaze práce, jejích požadavcích a specifikách
    5. délce trvání spolupráce
-   6. a dalších
+   6. a dalších.
+3. Konkrétní cenovou nabídku vám pošlu v závislosti na vaší poptávce.
 
 ## 5. Obchodní podmínky
 
-1. Ke službám poskytovaným v Česku se přičítá DPH 21 %
-2. Dodržuju 100% mlčenlivost a vaše data s nikým nesdílím. Pouze na vaši žádost nebo po vzájemné dohodě.
-3. Klient objednává služby jako podnikatel. Jsme rovnocennými partnery.
-4. Náhrada škody je limitována výší vaší objednávky, maximálně však 50.000 Kč.
-5. K práci využívám vlastní zařízení včetně kanceláře. Nejsem povinen vás fyzicky navštěvovat.
-6. Zdrojové kódy a další výstupy jsou mým majetkem, dokud není objednávka uhrazena ve 100% výši.
-7. Skryté vady opravím pokud jsou způsobeny výhradně mým rozhodnutím nebo mou implementační chybou v mém kódu. Na jejich odhalení máte měsíc od doručení práce.
+1. Dodržuju 100% mlčenlivost a vaše data s nikým nesdílím. Pouze na vaši žádost nebo po vzájemné dohodě.
+2. Klient objednává služby jako podnikatel. Jsme rovnocennými partnery.
+3. Náhrada škody je limitována výší vaší objednávky, maximálně však 50.000 Kč.
+4. K práci využívám vlastní zařízení včetně kanceláře. Nejsem povinen vás fyzicky navštěvovat.
+5. Zdrojové kódy a další výstupy jsou mým majetkem, dokud není objednávka uhrazena ve 100% výši.
+6. Skryté vady opravím pokud jsou způsobeny výhradně mým rozhodnutím nebo mou implementační chybou v mém kódu. Na jejich odhalení máte měsíc od doručení práce.
    1. Pokud chybu nedokážu opravit, vrátím vám peníze v maximálním rozsahu času stráveném na dané funkcionalitě.
-8. Nenesu žádnou odpovědnost za bezpečnost dodávaných služeb. Práci však doručuju svědomitě a v nejvyšší možné kvalitě.
-9. Pracovní dobu si nastavuju dle vlastního uvážení a nemám povinnost ji jakkoli přizpůsobovat.
-10. Od smlouvy můžete kdykoli odstoupit.
-11. Vyhrazuju si právo na odmítnutí zakázky bez udání důvodů.
-12. Odmítám spolupracovat s fyzickými a právnickými osobami, které
-    - provozují síťový (multilevel) marketing
-    - poškozují životní prostředí
-    - porušují práva lidí a zvířat
-    - podporují ruskou invazi na ukrajinu a jiné extrémní režimy, chování nebo postoje
-13. S obchodními podmínkami souhlasíte uhrazením prvním faktury.
-14. Mám právo odmítnout práci na zadání nebo jeho části, pokud je v rozporu s mou specializací, zaměřením nebo odporuje-li mým osobním hodnotám či přesvědčení, poškodila by mé dobré jméno, je protiprávní nebo neetická.
+7. Nenesu žádnou odpovědnost za bezpečnost dodávaných služeb. Práci však doručuju svědomitě a v nejvyšší možné kvalitě.
+8. Pracovní dobu si nastavuju dle vlastního uvážení a nemám povinnost ji jakkoli přizpůsobovat.
+9. Od smlouvy můžete kdykoli odstoupit.
+10. Vyhrazuju si právo na odmítnutí zakázky bez udání důvodů.
+11. Odmítám spolupracovat s fyzickými a právnickými osobami, které
+    - provozují síťový (multilevel) marketing,
+    - poškozují životní prostředí,
+    - porušují práva lidí a zvířat,
+    - podporují ruskou invazi na ukrajinu a jiné extrémní režimy, chování nebo postoje.
+12. S obchodními podmínkami souhlasíte uhrazením prvním faktury.
+13. Mám právo odmítnout práci na zadání nebo jeho části, pokud je v rozporu s mou specializací, zaměřením nebo odporuje-li mým osobním hodnotám či přesvědčení, poškodila by mé dobré jméno, je protiprávní nebo neetická.
 
 ### 5.1. Hodinový pracovník
 
@@ -78,15 +76,17 @@ Podrobnosti o používaných technologiích, specializaci a zaměření jsou k d
    3. Je vaší povinností zajistit mi dostatek práce, aby pokryla objednané množství hodin.
    4. Po vyčerpání objednaného množství hodin nemám povinnost nedokončenou práci dodělávat.
 4. Na konci měsíce nebo na vyžádání vám zašlu časový report / výkaz práce.
-5. Předplacené hodiny čerpáte po blocích od 5 minut.
+5. Předplacené hodiny čerpáte po blocích od 10 minut.
 
 ### 5.2. Objednávka - dodání
 
 1. K doručení objednávky mohu využít dílčích dodavatelů.
 2. Za výsledek práce nesu plnou odpovědnost, nejsou-li výslovně specifikována jména dalších odpovědných osob.
-3. Spolupráce je zahájena uhrazením 50% zálohové faktury, která je nevratná. Nahrazuje náklady na vyčlenění kapacit, poptání dalších dodavatelů a možný ušlý zisk.
-4. Zbylých 50% je uhrazeno po schválení práce objednatelem.
-5. Objednávka je předána včetně převodu vlastnických, majetkových a dalších práv objednateli bezprostředně po uhrazení dohodnuté částky.
+3. Spolupráce je zahájena uhrazením zálohové faktury, která je nevratná. Nahrazuje náklady na vyčlenění kapacit, poptání dalších dodavatelů a možný ušlý zisk.
+   1. V případě, že je práce rovnou odevzdávána (např. kód je ve vašem repozitáři, nastavení se provádí ve vaší aplikaci, nastavuju váš cloudový projekt, atd.), výše zálohové faktury je 100 %.
+   2. V případě, že práci doručím až po jejím dokončení, výše zálohové faktury je 50 %.
+      1. Zbylých 50 % je uhrazeno po schválení práce objednatelem.
+4. Objednávka je předána včetně převodu vlastnických, majetkových a dalších práv objednateli bezprostředně po uhrazení dohodnuté částky.
 
 ### 5.3. Konzultace
 
@@ -106,4 +106,4 @@ Podrobnosti o používaných technologiích, specializaci a zaměření jsou k d
 
 ### 5.5. Komunikace
 
-1. Hlavním komunikačním kanálem je email stefan@stefanprokop.dev.
+1. Hlavním komunikačním kanálem je e-mail stefan@stefanprokop.dev.
